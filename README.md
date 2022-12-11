@@ -1,4 +1,9 @@
 ### Hi there 👋
+This website was created as the product of my Personal Project for the IB MYP programme.
+If you're reading this, please let me know if there are any issues or areas of improvement for my website!
+
+Thanks a ton,
+Rex
 
 <!--
 **PlebyRexy/plebyrexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
